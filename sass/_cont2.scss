@@ -1,0 +1,45 @@
+#contseccion2 {
+  display: flex;
+  margin: auto;
+  margin-top: 8%;
+  width: 80vw;
+  align-items: center;
+}
+
+.contseccion2--1 {
+  margin: 0% 6% 0% 0%;
+}
+
+.contseccion2--1 img {
+  height: 50vh;
+  border-radius: 100%;
+  border: #ffffff 10px solid;
+}
+
+.contseccion2--2 article {
+  display: flex;
+}
+
+.contseccion2--2 article p {
+  padding: 2%;
+  border: 2px solid white;
+  border-radius: 50px;
+  margin: 5px;
+}
+
+.contseccion2--2 a button {
+  background-color: #212185;
+  color: #ffffff;
+  padding: 2% 3% 2% 3%;
+  border-radius: 50px;
+  border: #212185 solid 2px;
+}
+
+.contseccion2--2 h2 {
+  font-size: 3rem;
+  margin-bottom: 2%;
+}
+
+.contseccion2--2 p {
+  margin: 2% 0% 2% 0%;
+}

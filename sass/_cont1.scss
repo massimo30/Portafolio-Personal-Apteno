@@ -1,0 +1,27 @@
+#contservicios1 {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  flex-wrap: nowrap;
+}
+
+#contservicios1 section a {
+  color: #ffffff;
+  font-size: 2rem;
+  padding: 3% 5% 3% 5%;
+  border: #ffffff solid 5px;
+  border-radius: 160px;
+  margin-left: 20px;
+}
+
+.sectionserv1 {
+  margin: 15% 0% 10% 0%;
+}
+
+.sectionserv2 {
+  margin: 0% 0% 10% 0%;
+}
+
+.sectionserv3 {
+  margin: 0% 0% 0% 0%;
+}
