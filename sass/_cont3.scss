@@ -107,6 +107,9 @@
   margin-left: 3%;
   padding: 20px;
   text-align: center;
+  background-image: url(../images/recibo.jpg);
+  background-size: cover;
+  background-position: left;
 }
 
 .contseccion3__2-2 img {
@@ -194,4 +197,10 @@
 
 .contseccion3__4-3 {
   height: 50vh;
+}
+
+@media (max-width: 1410px) {
+  .contseccion3__4-1 h2 {
+    font-size: 10px;
+  }
 }
